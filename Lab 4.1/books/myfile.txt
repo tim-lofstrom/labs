@@ -1,0 +1,6 @@
+123;kurt;;
+444;martina;marty;
+98;jens;;
+3333;alice;;
+12345;emil;;
+07021323;johan;j;
